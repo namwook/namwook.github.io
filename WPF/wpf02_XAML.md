@@ -75,7 +75,7 @@ XAML(eXtensible Application Markup Language)은 GUI를 나타내기위한 Micros
 <Grid Name="pnlMainGrid" MouseUp="pnlMainGrid_MouseUp" Background="LightBlue"></Grid>
 ```
 
-Event handler의 이름은 ''<control_name>\_\<event name>''의 형태로 지어집니다. (ex. pnlMainGrid_MouseDown)
+Event handler의 이름은 '''<control_name>\_\<event name>''의 형태로 지어집니다. (ex. pnlMainGrid_MouseDown)
 
 #### XAML code에서가 아닌 cs 코드에서 event 구현
 
